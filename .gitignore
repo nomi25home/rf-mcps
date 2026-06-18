@@ -1,0 +1,16 @@
+# Original vendor assets (not redistributed)
+*.zip
+iTest-assets-extracted/
+._*
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+*.egg-info/
+
+# Environment / secrets
+.env
